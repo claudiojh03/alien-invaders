@@ -1,0 +1,5 @@
+02-14-2022|Barney Rubble|21.45
+01-04-2022|Fred Flintstone|-99.95564
+01-04-2022|Velma Flintstone|-99.95
+02-14-2022|Robot Rubble|21.45
+01-04-2022|Fred Flintstone|23.254376

@@ -1,0 +1,6 @@
+03-23-3002,barney,produce,12.4
+03-24-3002,Deez,produce,12.4
+03-25-3002,Nutz,produce,78.4
+03-24-3002,Huevos,meat,21.2
+03-24-3002,Huevos,grocery,53.21
+03-24-3002,Huevos,produce,53.22
